@@ -17,7 +17,7 @@ PShape ohio;
 
 void setup() {
   size(640, 360);  
-  usa = loadShape("getchild/usa-wikipedia.svg");
+  usa = loadShape("usa-wikipedia.svg");
   michigan = usa.getChild("MI");
   ohio = usa.getChild("OH");
 }
