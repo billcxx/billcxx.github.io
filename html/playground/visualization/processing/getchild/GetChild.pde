@@ -9,7 +9,7 @@
  */
 
 // The next line is needed if running in JavaScript Mode with Processing.js
-/* @pjs preload="getchild/usa-wikipedia.svg"; */ 
+/* @pjs preload="usa-wikipedia.svg"; */ 
 
 PShape usa;
 PShape michigan;
