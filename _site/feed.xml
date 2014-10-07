@@ -1,27 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Solar Theme</title>
-		<description>A stylish blog using the Solarized color palette</description>
-		<link>http://example.org</link>
-		<atom:link href="http://example.org/feed.xml" rel="self" type="application/rss+xml" />
+		<title>Xiaoxing's blog</title>
+		<description>My life and research</description>
+		<link>http://billcxx.github.io</link>
+		<atom:link href="http://billcxx.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>France Removes Internet Cut-Off Threat From its Anti-Piracy Law</title>
-				<description>
+				<title>First blog post</title>
+				<description>&lt;p&gt;This is my first personal blog. The only experience I have related to building a website is a wordpress site used for my graduate application. But I’ve always been interested in the web technology, I watched quite a lot of tuts+ and lynda tutorial, learnt html5, css3 and javascript, along with several interesting things that could be used for web page, such as three.js and processing.&lt;/p&gt;
+
 </description>
-				<pubDate>Wed, 05 Jun 2013 16:33:11 -0400</pubDate>
-				<link>http://example.org/2013/06/05/france-removes-internet-cut-off/</link>
-				<guid isPermaLink="true">http://example.org/2013/06/05/france-removes-internet-cut-off/</guid>
-			</item>
-		
-			<item>
-				<title>Jekyll Documentation</title>
-				<description>
-</description>
-				<pubDate>Wed, 05 Jun 2013 16:03:11 -0400</pubDate>
-				<link>http://example.org/2013/06/05/jekyll-documentation/</link>
-				<guid isPermaLink="true">http://example.org/2013/06/05/jekyll-documentation/</guid>
+				<pubDate>Sat, 27 Sep 2014 00:00:00 -0400</pubDate>
+				<link>http://billcxx.github.io/2014/09/27/First-blog-post/</link>
+				<guid isPermaLink="true">http://billcxx.github.io/2014/09/27/First-blog-post/</guid>
 			</item>
 		
 			<item>
@@ -41,8 +33,8 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 </description>
 				<pubDate>Wed, 05 Jun 2013 13:06:25 -0400</pubDate>
-				<link>http://example.org/2013/06/05/welcome-to-jekyll/</link>
-				<guid isPermaLink="true">http://example.org/2013/06/05/welcome-to-jekyll/</guid>
+				<link>http://billcxx.github.io/2013/06/05/welcome-to-jekyll/</link>
+				<guid isPermaLink="true">http://billcxx.github.io/2013/06/05/welcome-to-jekyll/</guid>
 			</item>
 		
 	</channel>
